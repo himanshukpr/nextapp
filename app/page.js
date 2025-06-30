@@ -104,6 +104,7 @@ export default function Home() {
 
   return (
     <div className="max-w-xl mx-auto mt-10 p-6 bg-white rounded-lg shadow-lg">
+      <h1>This is just the delpoying test</h1>
       <form onSubmit={handleSubmit} className="mb-8 space-y-4">
         <div className="flex gap-4">
           <input
